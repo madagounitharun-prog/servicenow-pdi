@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="AI Compliance">fed236b33b944310cec1cdd643e45ac2</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>subcategories</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_74442_personal_0_subcategory</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_74442_personal_0.subcategory_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-24 04:06:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bed236b33b944310cec1cdd643e45aca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>subcategories</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Personal AI Assistant " source="x_74442_personal_0">ec8c16b73bd04310cec1cdd643e45a78</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Personal AI Assistant ">ec8c16b73bd04310cec1cdd643e45a78</sys_scope>
+        <sys_update_name>sys_app_module_bed236b33b944310cec1cdd643e45aca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-24 04:06:38</sys_updated_on>
+        <timeline_page/>
+        <title>subcategories</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Personal AI Assistant ">ec8c16b73bd04310cec1cdd643e45a78</application>
+        <file_path/>
+        <instance_id>4b1226c0fb93625485daf3585eefdc45</instance_id>
+        <instance_name>dev354067</instance_name>
+        <name>sys_app_module_bed236b33b944310cec1cdd643e45aca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="AI Compliance">fed236b33b944310cec1cdd643e45ac2</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>subcategories</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_74442_personal_0_subcategory</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_74442_personal_0.subcategory_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-24 04:06:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bed236b33b944310cec1cdd643e45aca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>subcategories</sys_name><sys_overrides/><sys_package display_value="Personal AI Assistant " source="x_74442_personal_0">ec8c16b73bd04310cec1cdd643e45a78</sys_package><sys_policy/><sys_scope display_value="Personal AI Assistant ">ec8c16b73bd04310cec1cdd643e45a78</sys_scope><sys_update_name>sys_app_module_bed236b33b944310cec1cdd643e45aca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-24 04:06:38</sys_updated_on><timeline_page/><title>subcategories</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>220643362</payload_hash>
+        <record_name>subcategories</record_name>
+        <reverted_from/>
+        <source>248c16b73bd04310cec1cdd643e45a8e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-24 04:06:38</sys_created_on>
+        <sys_id>72d236b33b944310cec1cdd643e45ad2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19dbdab12c90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-24 04:06:38</sys_updated_on>
+        <type>Module</type>
+        <update_guid>fed236b3f59443101fa126e398a7fcd0</update_guid>
+        <update_guid_history>fed236b3f59443101fa126e398a7fcd0:220643362</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="subcategories">55fdbf8c3b6cc310cec1cdd643e45ae8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-25 04:13:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>ac179a44c84740a0966031a36597e400</sys_id>
+        <sys_metadata>bed236b33b944310cec1cdd643e45aca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>subcategories</sys_name>
+        <sys_package display_value="Personal AI Assistant " source="x_74442_personal_0">ec8c16b73bd04310cec1cdd643e45a78</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Personal AI Assistant ">ec8c16b73bd04310cec1cdd643e45a78</sys_scope>
+        <sys_scope_delete display_value="">927ddfdd556246ba814462785d4bb109</sys_scope_delete>
+        <sys_update_name>sys_app_module_bed236b33b944310cec1cdd643e45aca</sys_update_name>
+        <sys_update_version display_value="sys_app_module_bed236b33b944310cec1cdd643e45aca">72d236b33b944310cec1cdd643e45ad2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-25 04:13:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
